@@ -13,11 +13,11 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <run_depend>rgbd_launch</run_depend>
+  <build_depend>roslaunch</build_depend>
   <run_depend>depth_image_proc</run_depend>
   <run_depend>image_proc</run_depend>
   <run_depend>nodelet</run_depend>
   <run_depend>openni2_camera</run_depend>
+  <run_depend>rgbd_launch</run_depend>
   <run_depend>tf</run_depend>
-
 </package>
